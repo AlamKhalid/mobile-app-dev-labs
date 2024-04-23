@@ -1,0 +1,30 @@
+2022/04/11-22:16:29.193 3ae4 Reusing MANIFEST C:\Users\hp\AppData\Local\Temp\flutter_tools.e341ca1\flutter_tools_chrome_device.f30baf62\Default\Local Storage\leveldb/MANIFEST-000001
+2022/04/11-22:16:29.204 3ae4 Recovering log #4
+2022/04/11-22:16:29.206 3ae4 Reusing old log C:\Users\hp\AppData\Local\Temp\flutter_tools.e341ca1\flutter_tools_chrome_device.f30baf62\Default\Local Storage\leveldb/000004.log 
+2022/04/11-22:31:30.493 3ae4 Level-0 table #8: started
+2022/04/11-22:31:30.505 3ae4 Level-0 table #8: 50028 bytes OK
+2022/04/11-22:31:30.511 3ae4 Delete type=0 #4
+2022/04/11-22:33:22.304 4aa8 Level-0 table #10: started
+2022/04/11-22:33:22.312 4aa8 Level-0 table #10: 55611 bytes OK
+2022/04/11-22:33:22.316 4aa8 Delete type=0 #7
+2022/04/11-22:50:56.688 2b20 Level-0 table #12: started
+2022/04/11-22:50:56.694 2b20 Level-0 table #12: 21809 bytes OK
+2022/04/11-22:50:56.700 2b20 Delete type=0 #9
+2022/04/11-22:51:43.147 2b20 Level-0 table #14: started
+2022/04/11-22:51:43.159 2b20 Level-0 table #14: 45567 bytes OK
+2022/04/11-22:51:43.163 2b20 Delete type=0 #11
+2022/04/11-22:52:20.674 4aa8 Level-0 table #16: started
+2022/04/11-22:52:20.688 4aa8 Level-0 table #16: 37405 bytes OK
+2022/04/11-22:52:20.691 4aa8 Delete type=0 #13
+2022/04/11-22:52:20.693 4aa8 Compacting 4@0 + 1@1 files
+2022/04/11-22:52:20.706 4aa8 Generated table #17@0: 293 keys, 191351 bytes
+2022/04/11-22:52:20.706 4aa8 Compacted 4@0 + 1@1 files => 191351 bytes
+2022/04/11-22:52:20.708 4aa8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/11-22:52:20.710 4aa8 Delete type=2 #8
+2022/04/11-22:52:20.710 4aa8 Delete type=2 #10
+2022/04/11-22:52:20.710 4aa8 Delete type=2 #12
+2022/04/11-22:52:20.710 4aa8 Delete type=2 #14
+2022/04/11-22:52:20.710 4aa8 Delete type=2 #16
+2022/04/11-22:53:22.431 2b20 Level-0 table #19: started
+2022/04/11-22:53:22.439 2b20 Level-0 table #19: 39330 bytes OK
+2022/04/11-22:53:22.442 2b20 Delete type=0 #15
